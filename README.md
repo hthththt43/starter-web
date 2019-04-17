@@ -16,6 +16,7 @@ As stated above, the main purpose is to provide simple example for git training 
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requiest for review.
 
 ### Copyright
 
