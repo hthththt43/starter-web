@@ -20,4 +20,4 @@ Please fork this repository and then issue pull requiest for review.
 
 ### Copyright
 
-Git.Traning 2019
+Git.Traning 2019. All rights reserved.
