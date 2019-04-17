@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Syed Taqi		syedtaqidev@gmail.com	@thesyedtaqi
 
 # THANKS
 
