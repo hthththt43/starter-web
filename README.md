@@ -15,3 +15,8 @@ This is a simple web project, deoployment can be on any web server or even local
 As stated above, the main purpose is to provide simple example for git training demos.
 
 ## How To Contribute
+
+
+### Copyright
+
+Git.Traning 2019
