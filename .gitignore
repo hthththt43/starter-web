@@ -2,3 +2,4 @@
 untrackedfile.txt
 *.log
 log/
+*.orig
