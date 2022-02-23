@@ -16,11 +16,15 @@ This is a simple web project, deoployment can be on any web server or even local
 
 ## Purpose
 
+1111111111111111
 As stated above, the main purpose is to provide simple example for git training demos.
+1111111111111111
 
 ## How To Contribute
 
+111111111111
 Please fork this repository and then issue pull requiest for review.
+11111111111
 
 ### Copyright
 
