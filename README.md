@@ -1,7 +1,7 @@
 # Starter Web Project 1
 
 1111111111111111111111111
-This is a simeple website project for showing how to use Git and Github together. Updating for emegency fix
+This is a simeple website project for showing how to use Git and Github together. Updating for emegency fix after stashing.
 1111111111111111111111111
 
 22222
